@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><speac><transition a="V" c="I" e="vi" function="I" p="IV" s="vi"/><transition a="V" c="vi" e="IV" function="IV" p="vi" s="I"/><transition a="V" c="I" e="V" function="V" p="IV" s="vi"/><transition a="V" c="I" e="vi" function="vi" p="IV" s="I"/></speac>

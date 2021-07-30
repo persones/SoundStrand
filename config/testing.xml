@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<blocks>
+  <block type="0">
+    <pitches>
+      <note pitch="60" time="0.0"/>
+      <note pitch="60" time="1.0"/>
+      <note pitch="60" time="2.0"/>
+      <note pitch="60" time="3.0"/>
+    </pitches>
+    <patterns>
+      <pattern>
+        <on time="0.0"/>
+        <on time="0.5"/>
+        <on time="1.0"/>
+        <on time="1.5"/>
+      </pattern>
+      <pattern>
+        <on time="0.0"/>
+        <on time="0.5"/>
+        <on time="1.0"/>
+        <on time="2.0"/>
+      </pattern>
+      <pattern>
+        <on time="0.0"/>
+        <on time="0.5"/>
+        <on time="1.5"/>
+        <on time="2.5"/>
+      </pattern>
+      <pattern>
+        <on time="0.00"/>
+        <on time="0.75"/>
+        <on time="1.50"/>
+        <on time="2.50"/>
+      </pattern>
+      <pattern>
+        <on time="0.00"/>
+        <on time="0.75"/>
+        <on time="1.50"/>
+        <on time="3.00"/>
+      </pattern>
+      <pattern>
+        <on time="0.0"/>
+        <on time="1.0"/>
+        <on time="2.0"/>
+        <on time="3.0"/>
+      </pattern>
+      <pattern>
+        <on time="0.5"/>
+        <on time="1.0"/>
+        <on time="2.0"/>
+        <on time="3.0"/>
+      </pattern>
+      <pattern>
+        <on time="0.5"/>
+        <on time="1.5"/>
+        <on time="2.0"/>
+        <on time="3.0"/>
+      </pattern>
+      <pattern>
+        <on time="1.0"/>
+        <on time="2.0"/>
+        <on time="2.5"/>
+        <on time="3.0"/>
+      </pattern>
+      <pattern>
+        <on time="1.5"/>
+        <on time="2.0"/>
+        <on time="2.5"/>
+        <on time="3.0"/>
+      </pattern>
+      <pattern>
+        <on time="2.0"/>
+        <on time="2.5"/>
+        <on time="3.0"/>
+        <on time="3.5"/>
+      </pattern>
+    </patterns>
+    <contexts>
+      <context color="MAJOR" root="0" inversion="0"/>
+      <context color="MAJOR" root="5" inversion="0"/>
+      <context color="MAJOR" root="7" inversion="0"/>
+    </contexts>
+  </block>
+  <block type="1">
+    <pitches>
+      <note pitch="60" time="0.0"/>
+      <note pitch="60" time="1.0"/>
+      <note pitch="60" time="2.0"/>
+      
+    </pitches>
+    <patterns>
+      <pattern>
+        <on time="0.0"/>
+        <on time="0.5"/>
+        <on time="1.0"/>
+      </pattern>
+      <pattern>
+        <on time="0.0"/>
+        <on time="0.5"/>
+        <on time="1.5"/>
+            </pattern>
+      <pattern>
+        <on time="0.00"/>
+        <on time="0.75"/>
+        <on time="1.50"/>
+      </pattern>
+      <pattern>
+        <on time="0.0"/>
+        <on time="1.0"/>
+        <on time="1.5"/>
+      </pattern>
+      <pattern>
+        <on time="0.00"/>
+        <on time="1.00"/>
+        <on time="1.75"/>
+      </pattern>
+      <pattern>
+        <on time="0.0"/>
+        <on time="1.0"/>
+        <on time="2.0"/>
+      </pattern>
+      <pattern>
+        <on time="0.0"/>
+        <on time="1.0"/>
+        <on time="2.5"/>
+      </pattern>
+      <pattern>
+        <on time="0.0"/>
+        <on time="1.5"/>
+        <on time="2.5"/>
+      </pattern>
+      <pattern>
+        <on time="0.0"/>
+        <on time="1.5"/>
+        <on time="3.0"/>
+      </pattern>
+      <pattern>
+        <on time="0.5"/>
+        <on time="1.5"/>
+        <on time="3.0"/>
+      </pattern>
+      <pattern>
+        <on time="1.0"/>
+        <on time="2.0"/>
+        <on time="3.0"/>
+      </pattern>
+    </patterns>
+    <contexts>
+      <context color="MINOR" root="9" inversion="0"/>
+      <context color="MAJOR" root="5" inversion="0"/>
+      <context color="MAJOR" root="7" inversion="0"/>
+    </contexts>
+  </block>
+  <block type="2">
+    <pitches>
+      <note pitch="56" time="0.0"/>
+      <note pitch="60" time="1.0"/>
+      <note pitch="58" time="2.0"/>
+      <note pitch="64" time="0.0"/>
+      <note pitch="60" time="1.0"/>
+      <note pitch="66" time="2.0"/>
+
+    </pitches>
+    <patterns>
+      <pattern>
+        <on time="0.0"/>
+        <on time="0.5"/>
+        <on time="1.0"/>
+        <on time="1.5"/>
+        <on time="2.0"/>
+        <on time="3.0"/>
+      </pattern>
+      <pattern>
+        <on time="0.00"/>
+        <on time="0.50"/>
+        <on time="1.25"/>
+        <on time="2.00"/>
+        <on time="2.50"/>
+        <on time="3.00"/>
+      </pattern>
+      <pattern>
+        <on time="0.00"/>
+        <on time="0.50"/>
+        <on time="1.50"/>
+        <on time="2.00"/>
+        <on time="2.50"/>
+        <on time="3.00"/>
+      </pattern>
+      <pattern>
+        <on time="0.00"/>
+        <on time="0.75"/>
+        <on time="1.50"/>
+        <on time="2.25"/>
+        <on time="2.75"/>
+        <on time="3.50"/>
+      </pattern>
+      <pattern>
+        <on time="0.00"/>
+        <on time="0.75"/>
+        <on time="1.50"/>
+        <on time="2.50"/>
+        <on time="3.00"/>
+        <on time="3.50"/>
+      </pattern>
+      <pattern>
+        <on time="0.50"/>
+        <on time="1.00"/>
+        <on time="2.00"/>
+        <on time="2.50"/>
+        <on time="3.00"/>
+        <on time="3.50"/>
+      </pattern>
+      <pattern>
+        <on time="0.75"/>
+        <on time="1.50"/>
+        <on time="2.00"/>
+        <on time="2.50"/>
+        <on time="3.00"/>
+        <on time="3.50"/>
+      </pattern>
+      <pattern>
+        <on time="1.00"/>
+        <on time="1.50"/>
+        <on time="2.00"/>
+        <on time="2.50"/>
+        <on time="3.00"/>
+        <on time="3.50"/>
+      </pattern>
+      <pattern>
+        <on time="2.00"/>
+        <on time="2.50"/>
+        <on time="3.00"/>
+        <on time="3.25"/>
+        <on time="3.50"/>
+        <on time="3.75"/>
+      </pattern>
+    </patterns>
+    <contexts>
+      <context color="MINOR" root="9" inversion="0"/>
+      <context color="MAJOR" root="5" inversion="0"/>
+      <context color="MAJOR" root="7" inversion="0"/>
+    </contexts>
+  </block>
+</blocks>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<speac>
+  <transition function="0" s="1" p="4" e="6" a="5" c="1"/>
+  <transition function="1" s="3" p="4" e="6" a="5" c="1"/>
+  <transition function="2" s="1" p="3" e="4" a="5" c="6"/>
+  <transition function="3" s="1" p="2" e="3" a="5" c="6"/>
+  <transition function="4" s="3" p="2" e="6" a="5" c="1"/>
+  <transition function="5" s="3" p="2" e="6" a="7" c="1"/>
+  <transition function="6" s="1" p="3" e="4" a="5" c="2"/>
+  <transition function="7" s="6" p="2" e="7" a="5" c="3"/>
+</speac>
